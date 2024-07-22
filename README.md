@@ -33,4 +33,9 @@ poetry install
 
 # Run tests
 poetry run pytests tests/
+
+# Install from git
+pip install git+https://github.com/dmcken/pyphp.git
+or
+python3 -m pip install git+https://github.com/dmcken/pyphp.git
 ```
