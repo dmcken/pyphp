@@ -12,7 +12,7 @@ import urllib.parse
 logger = logging.getLogger(__name__)
 
 # Functions
-def http_build_query(data: dict[str,str]) -> str:
+def http_build_query(data: dict) -> str:
     """PHP's http_build_query
 
     Initial version taken from:
