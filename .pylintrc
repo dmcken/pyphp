@@ -1,5 +1,5 @@
 [MASTER]
-ignore=docs
+ignore-paths=^docs/
 
 [MESSAGES CONTROL]
 disable=W0511
