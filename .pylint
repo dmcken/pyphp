@@ -1,2 +1,5 @@
 [MASTER]
 ignore=docs
+
+[MESSAGES CONTROL]
+disable=W0511
