@@ -1,9 +1,6 @@
 '''Tests for pyphp module'''
 import pyphp
 
-#TODO: single level dict
-#TODO: triple level dict
-
 def test_http_build_query_double():
     """Test single layer.
     """
